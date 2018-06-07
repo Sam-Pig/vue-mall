@@ -1,5 +1,6 @@
 let url = {
-    hotLists: '/example/1527764192266'
+    hotLists: '/index/hotLists',
+    banner: '/index/banner'
 }
 
 // 开发环境和真实环境的切换

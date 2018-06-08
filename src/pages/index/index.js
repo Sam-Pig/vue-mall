@@ -10,7 +10,7 @@ Vue.use(InfiniteScroll);
 import Foot from 'components/Foot.vue'
 import Swipe from 'components/Swipe.vue'
 
-let app = new Vue({
+new Vue({
     el: '#app',
     data: {
         lists: null,
